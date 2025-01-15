@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: healthcare
-        image: vikuldocker/healthcare-vikul:1
+        image: aasthagupta02/healthcare-aastha:1
         ports:
         - containerPort: 8082
 
